@@ -16,6 +16,8 @@ public class Main {
         //feat3에 test 새 브랜치 생성!
 
         //브랜치 병합 취소!
+
+        //브랜치 병합 재시도!
         
     }
 }
