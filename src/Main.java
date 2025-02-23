@@ -5,6 +5,5 @@ public class Main {
 
         //feat2_testbranch 생성
         //feat2 testbranch 병합을 시도
-        //feat2 merge시도
     }
 }
