@@ -12,5 +12,7 @@ public class Main {
         //태그를 원격에도 넣어보자
         
         //브랜치 병합 후 push해보기
+
+        //feat3에 test 새 브랜치 생성!
     }
 }
