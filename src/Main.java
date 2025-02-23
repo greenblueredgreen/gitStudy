@@ -10,5 +10,7 @@ public class Main {
         //다른 브랜치에 올려야하는데 잘못 올렸을 때 - feat2
     
         //6.체크아웃 테스트
+
+        //rebase 테스트 _ rebasefeat1
     }
 }
